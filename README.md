@@ -1,23 +1,23 @@
-## Welcome to Bruno Nader's Github Pages
+# Welcome to Bruno Nader's Github Pages
 
 Passionate Software Engineer. Right now focused on Serveless applicaitons using AWS Lamda in Node.js. #Serveless #Microservices #MobileDeveloper #CloudEngineer #IndependentConsultant
 
-#Profile
+## Profile
 
 Currently, I am Sr. Software Engineer with Subway, where I’ve collaborated with a strong middleware & integration to complete multiple projects including the development of features in Subway's mobile application.
 Additionally, I continue to help companies ranging from small to enterprise level with developing iOS and Android apps through my work at Nader Technology Solutions.
 
-#Skills
+## Skills
 
 14 years of development and project management experience paired with my skillset that matches customer needs.
 
-#SERVICES
+## SERVICES
 
 What Can I Do For You?
 
 I continue to help companies ranging from small to enterprise level with developing iOS, Android apps and Cloud Solutions through my work at Nader Technology Solutions.
 
-#CONTACT
+## CONTACT
 
 I'd Love To Hear From You.
 
